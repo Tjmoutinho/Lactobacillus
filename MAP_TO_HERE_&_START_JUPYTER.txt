@@ -1,0 +1,5 @@
+
+cd /d D:\Google\repos\Lactobacillus
+
+C:\Users\tjm4k\AppData\Local\Programs\Python\Python36\Scripts\jupyter notebook
+

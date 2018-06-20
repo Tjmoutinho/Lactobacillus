@@ -1,16 +1,2 @@
 Config File:  /sfs/lustre/scratch/tjm4k/probannopy/probanno/deploy.cfg
 Config Items:  ['ProbAnno-Standalone']
-Traceback (most recent call last):
-  File "test_probanno_gapfill.py", line 8, in <module>
-    rxn_list = probanno.probabilistic_gapfill(model, universal_model, reaction_probabilities)
-  File "/sfs/lustre/scratch/tjm4k/probannopy/probanno/probanno.py", line 123, in probabilistic_gapfill
-    return cobra.flux_analysis.gapfill(model, universal_model, penalties=penalties, demand_reactions=dm_rxns, exchange_reactions=ex_rxns, **solver_parameters)
-  File "/home/tjm4k/.local/lib/python2.7/site-packages/cobra/flux_analysis/gapfilling.py", line 299, in gapfill
-    return gapfiller.fill(iterations=iterations)
-  File "/home/tjm4k/.local/lib/python2.7/site-packages/cobra/flux_analysis/gapfilling.py", line 223, in fill
-    message='gapfilling optimization failed')
-  File "/home/tjm4k/.local/lib/python2.7/site-packages/cobra/core/model.py", line 848, in slim_optimize
-    assert_optimal(self, message)
-  File "/home/tjm4k/.local/lib/python2.7/site-packages/cobra/util/solver.py", line 433, in assert_optimal
-    raise exception_cls("{} ({})".format(message, status))
-cobra.exceptions.Infeasible: gapfilling optimization failed (infeasible)

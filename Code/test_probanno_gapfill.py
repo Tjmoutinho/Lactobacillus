@@ -6,6 +6,7 @@ reaction_probabilities = probanno.generate_reaction_probabilities('/scratch/tjm4
 pickle.dump(reaction_probabilities, open("/scratch/tjm4k/Lactobacillus/Data/rxn_probs.dic", "wb"))
 universal_model = cobra.io.load_json_model("/scratch/tjm4k/Lactobacillus/Data/GramPosUni.json")
 model = cobra.io.read_sbml_model('/scratch/tjm4k/Lactobacillus/gap_models/1002365.5.xml')
+model.solver = 'gurobi'
 
 for i in range(100):
 	try:

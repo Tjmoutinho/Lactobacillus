@@ -11,27 +11,27 @@ model = cobra.io.read_sbml_model('/scratch/tjm4k/Lactobacillus/gap_models/100236
 model.solver = 'gurobi'
 
 # Create Universal Model with only reactions that have genetic evidence
-rxns_w_probs = []
-for rxn in universal.reactions:
-    try:
-        if rxn_probs[rxn.id] > 0:
-            rxns_w_probs.append(rxn.id)
-        elif rxn_probs[rxn.id] == 0:
-            pass
-    except:
-        pass
+# rxns_w_probs = []
+# for rxn in universal.reactions:
+#     try:
+#         if rxn_probs[rxn.id] > 0:
+#             rxns_w_probs.append(rxn.id)
+#         elif rxn_probs[rxn.id] == 0:
+#             pass
+#     except:
+#         pass
 # Create list of reactions without probs from the universal model
-uni_rxns = set([rxn.id for rxn in universal.reactions])
-rxns_to_remove = list(uni_rxns - set(rxns_w_probs))
+# uni_rxns = set([rxn.id for rxn in universal.reactions])
+# rxns_to_remove = list(uni_rxns - set(rxns_w_probs))
 # Remove Reactions from Universal Model
-uni_slim = copy.deepcopy(universal)
-uni_slim.remove_reactions(rxns_to_remove)
-uni_slim
+# uni_slim = copy.deepcopy(universal)
+# uni_slim.remove_reactions(rxns_to_remove)
 
 # Try to gapfill 100 times
 for i in range(100):
 	try:
-		rxn_list = probanno.probabilistic_gapfill(model, uni_slim, reaction_probabilities)
+		rxn_list = probanno.probabilistic_gapfill(model, universal, reaction_probabilities)
+		# rxn_list = probanno.probabilistic_gapfill(model, uni_slim, reaction_probabilities)
 		pickle.dump(rxn_list, open("/scratch/tjm4k/Lactobacillus/Data/probanno_test.list", "wb"))
 		print("Passed after %s loops.") % (i)
 		break

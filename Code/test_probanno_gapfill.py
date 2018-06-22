@@ -1,6 +1,7 @@
 import probanno
 import cobra
 import pickle
+import copy
 
 # Open all useful files
 reaction_probabilities = probanno.generate_reaction_probabilities('/scratch/tjm4k/Lactobacillus/fastas/1002365.5.faa', '/scratch/tjm4k/Lactobacillus/Data/GramPositive.json', genome_id='1002365.5')

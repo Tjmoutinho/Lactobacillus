@@ -1,0 +1,16 @@
+module purge
+module load gcc openmpi anaconda2/5.1.0
+
+module spider package_name
+
+GCC 7.1.0
+
+more requirements.txt
+conda list package_name
+./.local/lib/python2.7/site-packages/
+
+printenv path
+export PATH=$PATH:.
+
+hdquota
+

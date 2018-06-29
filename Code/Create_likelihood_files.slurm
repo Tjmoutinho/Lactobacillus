@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
-#SBATCH -t 10:00:00
+#SBATCH -t 100:00:00
 #SBATCH --output=error_log.out
 #SBATCH --mem=50000
 #SBATCH --account=CSBLRivanna

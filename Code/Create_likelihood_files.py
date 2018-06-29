@@ -16,4 +16,4 @@ existing_files = [x.replace("../likelihoods/","").replace(".probs","") for x in 
 for genome_id in genome_ids:
 	if not genome_id in existing_files:
 		reaction_probabilities = probanno.generate_reaction_probabilities('/scratch/tjm4k/Lactobacillus/fastas/'+ genome_id +'.faa', '/scratch/tjm4k/Lactobacillus/Data/GramPositive.json', genome_id = genome_id)
-		json.dump(reaction_probabilities, open('/scratch/tjm4k/Lactobacillus/likelihoods/'+ genome_id +'.probs', "wb"))
+		pickle.dump(reaction_probabilities, open('/scratch/tjm4k/Lactobacillus/likelihoods/'+ genome_id +'.probs', "wb"))

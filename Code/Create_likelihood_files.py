@@ -3,6 +3,7 @@ import cobra
 import pickle
 import copy
 import json
+import glob
 
 # Open all useful files
 # genome_ids_list

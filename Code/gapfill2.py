@@ -84,7 +84,7 @@ class GapFiller(object):
 
     def __init__(self, model, universal=None, lower_bound=0.05,
                  penalties=None, exchange_reactions=False,
-                 demand_reactions=True, integer_threshold=1e-6):
+                 demand_reactions=True, integer_threshold=1e-9):
         self.original_model = model
         self.lower_bound = lower_bound
         self.model = model.copy()

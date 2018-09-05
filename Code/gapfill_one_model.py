@@ -388,7 +388,7 @@ all_mets = []
 for met in universal.metabolites:
     if (met.id.endswith('_c')):
         universal.add_boundary(met, type='demand')
-universal.solver = 'gurobi'
+# universal.solver = 'gurobi'
 
 ### Set Up Model: remove low likelihood reactions
 sys.stdout.write('Set-up Model...')
@@ -402,7 +402,7 @@ for rxn in model.reactions:
             pass
 model_rxns_to_remove = [model.reactions.get_by_id(rxn) for rxn in low_like_model]
 model.remove_reactions(model_rxns_to_remove)
-model.solver = 'gurobi'
+# model.solver = 'gurobi'
 
 # Remove model reactions from universal
 orig_rxn_ids = set([str(x.id) for x in model.reactions])
@@ -421,7 +421,7 @@ counter = 0
 total_dataset_dict = {}
 carb_idx = 0
 
-for carbon in carbon_sources:
+for carbon in carbon_sources[0:1]:
     nit_idx = 0
     for nitrogen in nitrogen_sources[0:1]:
         # Create and set specific Media List

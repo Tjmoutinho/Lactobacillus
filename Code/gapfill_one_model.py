@@ -423,7 +423,7 @@ counter = 0
 total_dataset_dict = {}
 carb_idx = 0
 
-for carbon in carbon_sources[0:1]:
+for carbon in carbon_sources:
     nit_idx = 0
     for nitrogen in nitrogen_sources[0:1]:
         # Create and set specific Media List

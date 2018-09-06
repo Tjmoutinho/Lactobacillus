@@ -7,6 +7,6 @@
 #SBATCH --account=CSBLRivanna
 #SBATCH --partition=standard
 
-module load gcc openmpi anaconda2/5.1.0 gurobi/8.0.1
+module load gcc openmpi anaconda2/5.1.0 
 
 python gapfill_one_model.py

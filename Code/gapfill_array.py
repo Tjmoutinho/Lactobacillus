@@ -372,8 +372,14 @@ t = time.time()
 
 sys.stdout.write('Loading in models...')
 
+import sys
+with open(sys.argv[1], 'r') as file:
+    for line in file:
+        genome_id = str(line)
+        
 universal = cobra.io.load_json_model("../Data/GramPosUni.json")
-genome_id = '220668.9'
+# genome_id = '220668.9'
+
 model = cobra.io.read_sbml_model('../gap_models/'+ genome_id +'.xml')
 likelihoods = pickle.load(open('../likelihoods/'+ genome_id +'.probs'))
 

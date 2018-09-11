@@ -4,7 +4,7 @@
 #SBATCH -t 100:00:00
 #SBATCH --array=0-179
 #SBATCH --output=error_logs/error_log_%a.out
-#SBATCH --mem=20000
+#SBATCH --mem=12000
 #SBATCH --account=CSBLRivanna
 #SBATCH --partition=standard
 

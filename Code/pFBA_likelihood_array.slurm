@@ -10,4 +10,4 @@
 
 module load gcc openmpi anaconda2/5.1.0 
 
-python pFBA_likelihood_array.py /scratch/tjm4k/Lactobacillus/array_input_V2/input_${SLURM_ARRAY_TASK_ID}.txt
+python pFBA_likelihoods_array.py /scratch/tjm4k/Lactobacillus/array_input_V2/input_${SLURM_ARRAY_TASK_ID}.txt

@@ -225,6 +225,27 @@ def add_pfba_likely(model, likelihoods, objective=None, fraction_of_optimum=1.0)
     model.objective = model.problem.Objective(Zero, direction='min', sloppy=True, name="_pfba_objective")
     model.objective.set_linear_coefficients(dict1)
     
+# Actually prune all unused metabolites and reactions (innate function does not work)
+def removeUnused(model):
+    removed_cpd = set()
+    removed_rxn = set()
+    unused_current_cpd = 1
+    unused_current_rxn = 1
+    
+    while unused_current_cpd != 0 or unused_current_rxn != 0:
+        unused_cpd = prune_unused_metabolites(model)
+        removed_cpd |= set(unused_cpd)
+        unused_rxn = prune_unused_reactions(model)
+        removed_rxn |= set(unused_rxn)
+        
+        unused_current_cpd = len(unused_cpd)
+        unused_current_rxn = len(unused_rxn)
+    
+    print('Pruned ' + str(len(removed_cpd)) + ' metabolites from model')
+    print('Pruned ' + str(len(removed_rxn)) + ' reactions from model')
+        
+    return(list(removed_cpd), list(removed_rxn))
+
 # Load in models
 
 t = time.time()

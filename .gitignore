@@ -6,4 +6,5 @@ gapfilled/
 gap_models/
 likelihoods/
 metabolic_output/
+metabolic_output_V2/
 **/Code/error_logs/

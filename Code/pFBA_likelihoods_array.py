@@ -255,7 +255,7 @@ sys.stdout.write('Loading in models...')
 universal = cobra.io.load_json_model("../Data/GramPosUni.json")
 universal_orig = cobra.io.load_json_model("../Data/GramPosUni.json")
 
-genome_id = '220668.9'
+# genome_id = '220668.9'
 # model = cobra.io.read_sbml_model('../gap_models/'+ genome_id +'.xml')
 likelihoods = pickle.load(open('../likelihoods/'+ genome_id +'.probs'))
 

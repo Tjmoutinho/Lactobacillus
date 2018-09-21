@@ -1,0 +1,149 @@
+	"Isovalerate" ^
+	"Isocaproate" ^
+	"Isobutyrate" ^
+	"Pyroglutamate" - source 
+
+"Betaine aldehyde" - source cpd00447
+"Isopropanol" - source cpd01269
+"Oxoisocaproate" - source cpd00200
+"Nicotinamide" - source cpd00133
+"Uridine" - source cpd00249
+"Cytidine" - source cpd00367
+"Adenosine" - source cpd00182
+
+~"Succinate" ^ cpd00036
+~"Choline" ^ cpd00098
+~"Inosine" ^ cpd00246
+~"Urocanate" ^ cpd00581
+~"Hypoxanthine" ^ cpd00226
+~"Uracil" ** cpd00092
+~"Cytosine" ** cpd00307
+~"Fumarate" ** cpd00106
+~"UMP" ** cpd00091
+~"Adenine" ** cpd00128
+~"AMP" ** cpd00018
+~"Nicotinate" ** cpd00218 (niacin)
+~"Tyramine" ** cpd00374
+
+~citrulline cpd00274
+
+products = [
+    ['D-Alanine','cpd00117'], #EXs : 
+    ['D-Glutamate','cpd00186'], #EXs : 
+    ['D-Methionine','cpd00637'], #EXs : 
+    ['D-Serine','cpd00550'], #EXs : 
+    ['Glycine','cpd00033'], #EXs : 1
+    ['L-Alanine','cpd00035'], #EXs : 2
+    ['L-Arginine','cpd00051'], #EXs : 3
+    ['L-Asparagine','cpd00132'], #EXs : 4
+    ['L-Aspartate','cpd00041'], #EXs : 5
+    ['L-Cysteine','cpd00084'], #EXs : 7
+    ['L-Glutamate','cpd00023'], #EXs : 8
+    ['L-Glutamine','cpd00053'], #EXs : 9
+    ['L-Histidine','cpd00119'], #EXs : 10
+    ['L-Isoleucine','cpd00322'], #EXs : 11
+    ['L-Leucine','cpd00107'], #EXs : 12
+    ['L-Lysine','cpd00039'], #EXs : 13
+    ['L-Methionine','cpd00060'], #EXs : 14
+    ['L-Phenylalanine','cpd00066'], #EXs : 15
+    ['L-Proline','cpd00129'], #EXs : 16
+    ['L-Serine','cpd00054'], #EXs : 17
+    ['L-Threonine','cpd00161'], #EXs : 18
+    ['L-Tryptophan','cpd00065'], #EXs : 19
+    ['L-Tyrosine','cpd00069'], #EXs : 20
+    ['L-Valine','cpd00156'], #EXs : 21
+    ['H2O2','cpd00025'],
+    ['D-Lactate','cpd00221'],
+    ['L-Lactate','cpd00159'],
+#     ['Acetate','cpd00029'],
+    ['Butyrate','cpd00211'],
+#     ['isobutyrate','cpd01711'],
+    ['GABA','cpd00281'],
+    ['ethanol','cpd00363'],
+    ['Propionate','cpd00141'],
+    ['formate','cpd00047'], **
+#     ['Valerate','cpd00597'],
+#     ['Isovaleric acid','cpd05178'], # Not in universal?
+    ['TMAO','cpd00811'], # (CH3)3NO
+#     ['Indole-3-(carb)aldehyde','cpd05401'],
+#     ['Acetaldehyde','cpd00071'],
+    ['Deoxycholate','cpd02733'],
+    ['Chorismate','cpd00216'],
+    ['Hexanoate','cpd01113']
+]
+
+
+products = [
+    ['D_Alanine','cpd00117'], #EXs : 
+    ['D_Glutamate','cpd00186'], #EXs : 
+    ['D_Methionine','cpd00637'], #EXs : 
+    ['D_Serine','cpd00550'], #EXs : 
+    ['Glycine','cpd00033'], #EXs : 1
+    ['L_Alanine','cpd00035'], #EXs : 2
+    ['L_Arginine','cpd00051'], #EXs : 3
+    ['L_Asparagine','cpd00132'], #EXs : 4
+    ['L_Aspartate','cpd00041'], #EXs : 5
+    ['L_Cysteine','cpd00084'], #EXs : 7
+    ['L_Glutamate','cpd00023'], #EXs : 8
+    ['L_Glutamine','cpd00053'], #EXs : 9
+    ['L_Histidine','cpd00119'], #EXs : 10
+    ['L_Isoleucine','cpd00322'], #EXs : 11
+    ['L_Leucine','cpd00107'], #EXs : 12
+    ['L_Lysine','cpd00039'], #EXs : 13
+    ['L_Methionine','cpd00060'], #EXs : 14
+    ['L_Phenylalanine','cpd00066'], #EXs : 15
+    ['L_Proline','cpd00129'], #EXs : 16
+    ['L_Serine','cpd00054'], #EXs : 17
+    ['L_Threonine','cpd00161'], #EXs : 18
+    ['L_Tryptophan','cpd00065'], #EXs : 19
+    ['L_Tyrosine','cpd00069'], #EXs : 20
+    ['L_Valine','cpd00156'], #EXs : 21
+    
+    ['Choline','cpd00098'],
+    ['Citrulline','cpd00274'],
+#     ['Cytosine','cpd00307'],
+    ['Hypoxanthine','cpd00226'],
+    ['Inosine','cpd00246'],
+    ['Tyramine','cpd00374'],
+    
+    ['D_Lactate','cpd00221'],
+    ['L_Lactate','cpd00159'],
+    ['Acetate','cpd00029'],
+    ['Butyrate','cpd00211'],
+    ['Formate','cpd00047'],
+    ['Fumarate','cpd00106'],
+    ['Propionate','cpd00141'],
+#     ['isobutyrate','cpd01711'], 
+#     ['Valerate','cpd00597'],
+#     ['Isovaleric acid','cpd05178'], # Not in universal?
+    
+    ['Chorismate','cpd00216'],
+    ['Deoxycholate','cpd02733'],
+    ['Hexanoate','cpd01113'],
+    ['Succinate','cpd00036'],
+    ['Urocanate','cpd00581'],
+    
+    ['Adenine','cpd00128'],
+    ['AMP','cpd00018'],
+    ['UMP','cpd00091'],
+    ['Uracil','cpd00092'],
+    
+    ['B1_Thiamin','cpd00305'], # C12H17N4OS : B1
+    ['B2_Riboflavin','cpd00220'], # C17H19N4O6 : B2
+    ['B3_Niacin','cpd00218'], # C6H4NO2 : B3
+    ['B6_Pyridoxal','cpd00215'], # C8H9NO3 : B6
+    ['B7_BIOT','cpd00104'], # C10H15N2O3S : biotin B7
+    ['B9_Folate','cpd00393'], # C19H17N7O6 : B9
+    ['B12r','cpd00423'], # C62H91CoN13O14P : cobalamin;cpd03424;cpd00730 : not present in any exchange reactions
+    
+    ['Ethanol','cpd00363'],
+    ['GABA','cpd00281'],
+    ['H2O2','cpd00025'],
+    ['TMAO','cpd00811'] # (CH3)3NO
+]
+
+7:21 - 316
+7:31 - 358
+7:41 - 374
+8:01 - 469
+

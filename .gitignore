@@ -2,6 +2,7 @@
 models/
 fastas/
 features/
+nt_fastas/
 gapfilled/
 gap_models/
 likelihoods/

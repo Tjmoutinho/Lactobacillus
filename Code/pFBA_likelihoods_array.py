@@ -184,6 +184,7 @@ products = [
     ['GABA','cpd00281'],
     ['H2O2','cpd00025'],
     ['TMAO','cpd00811'] # (CH3)3NO
+    ['3_Hydroxypropanal','cpd00714']
 ]
 
 carbon_sources = [

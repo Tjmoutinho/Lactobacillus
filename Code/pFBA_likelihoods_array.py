@@ -183,7 +183,7 @@ products = [
     ['Ethanol','cpd00363'],
     ['GABA','cpd00281'],
     ['H2O2','cpd00025'],
-    ['TMAO','cpd00811'] # (CH3)3NO
+    ['TMAO','cpd00811'], # (CH3)3NO
     ['3_Hydroxypropanal','cpd00714']
 ]
 
@@ -358,7 +358,7 @@ for carbon in carbon_sources:
             product_idx += 1 # Keep track to which product is being maximized
 
     carb_idx += 1
-file_name = "../metabolic_output_V2/%s.data" % (genome_id) # CHANGE BACK TO CORRECT NAME
+file_name = "../metabolic_output_V3/%s.data" % (genome_id) # CHANGE BACK TO CORRECT NAME
 pickle.dump(total_dataset_dict, open(file_name, "wb"))
 
 print('\n'+ str((time.time() - global_time)/60) + 'mins to complete!')

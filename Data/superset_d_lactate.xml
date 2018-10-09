@@ -57,7 +57,6 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_3-Phosphoglycerate_c" name="3-Phosphoglycerate" compartment="c" fbc:charge="-3.0" fbc:chemicalFormula="C3H4O7P"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_Glucose-1-phosphate_c" name="Glucose-1-phosphate" compartment="c" fbc:charge="-2.0" fbc:chemicalFormula="C6H11O9P"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_Oxaloacetate_c" name="Oxaloacetate" compartment="c" fbc:charge="-2.0" fbc:chemicalFormula="C4H2O5"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_D-fructose-1-phosphate_c" name="D-fructose-1-phosphate" compartment="c" fbc:charge="-2.0" fbc:chemicalFormula="C6H11O9P"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_Maltoheptaose_c" name="Maltoheptaose" compartment="c" fbc:charge="0.0" fbc:chemicalFormula="C42H72O36"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_Maltohexaose_c" name="Maltohexaose" compartment="c" fbc:charge="0.0" fbc:chemicalFormula="C36H62O31"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_D-Fructose_c" name="D-Fructose" compartment="c" fbc:charge="0.0" fbc:chemicalFormula="C6H12O6"/>
@@ -89,7 +88,6 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_Cytochrome_c3+_c" name="Cytochrome c3+" compartment="c" fbc:charge="5.0" fbc:chemicalFormula="C42H52FeN8O6S2"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_D-Glucose_e" name="D-Glucose" compartment="e" fbc:charge="0.0" fbc:chemicalFormula="C6H12O6"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_D-Glucose_c" name="D-Glucose" compartment="c" fbc:charge="0.0" fbc:chemicalFormula="C6H12O6"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_D-Glyceraldehyde_c" name="D-Glyceraldehyde" compartment="c" fbc:charge="0.0" fbc:chemicalFormula="C3H6O3"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_Pyridoxal_phosphate_c" name="Pyridoxal phosphate" compartment="c" fbc:charge="-2.0" fbc:chemicalFormula="C8H8NO6P"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_D-Erythrose4-phosphate_c" name="D-Erythrose4-phosphate" compartment="c" fbc:charge="-2.0" fbc:chemicalFormula="C4H7O7P"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_H2S_c" name="H2S" compartment="c" fbc:charge="-1.0" fbc:chemicalFormula="HS"/>
@@ -610,16 +608,6 @@
           <speciesReference constant="true" species="M_D-Xylulose5-phosphate_c" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_rxn01282_c" reversible="true" name="D-Glycerate-2-phosphate phosphohydrolase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
-        <listOfReactants>
-          <speciesReference constant="true" species="M_2-Phospho-D-glycerate_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_H2O_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_Glycerate_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_Phosphate_c" stoichiometry="1"/>
-        </listOfProducts>
-      </reaction>
       <reaction fast="false" id="R_rxn00145_c" reversible="true" name="(S)-Lactate:ferricytochrome-c 2-oxidoreductase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <listOfReactants>
           <speciesReference constant="true" species="M_Cytochrome_c3+_c" stoichiometry="2"/>
@@ -629,25 +617,6 @@
           <speciesReference constant="true" species="M_Cytochrome_c2+_c" stoichiometry="2"/>
           <speciesReference constant="true" species="M_H+_c" stoichiometry="2"/>
           <speciesReference constant="true" species="M_Pyruvate_c" stoichiometry="1"/>
-        </listOfProducts>
-      </reaction>
-      <reaction fast="false" id="R_rxn08126_c" reversible="true" name="Amylomaltase (maltotriose)" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
-        <listOfReactants>
-          <speciesReference constant="true" species="M_Amylotriose_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_Maltose_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_D-Glucose_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_Maltotetraose_c" stoichiometry="1"/>
-        </listOfProducts>
-      </reaction>
-      <reaction fast="false" id="R_rxn01870_c" reversible="true" name="D-Fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
-        <listOfReactants>
-          <speciesReference constant="true" species="M_D-fructose-1-phosphate_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_D-Glyceraldehyde_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_Glycerone-phosphate_c" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_rxn00113_c" reversible="true" name="Carbon-dioxide:ammonia ligase (ADP-forming,carbamate-phosphorylating)" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
@@ -850,16 +819,6 @@
           <speciesReference constant="true" species="M_Maltohexaose_c" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
-      <reaction fast="false" id="R_rxn12188_c" reversible="true" name="R08548" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
-        <listOfReactants>
-          <speciesReference constant="true" species="M_D-fructose-1-phosphate_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_H2O_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_D-Fructose_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_Phosphate_c" stoichiometry="1"/>
-        </listOfProducts>
-      </reaction>
       <reaction fast="false" id="R_rxn00459_c" reversible="true" name="2-phospho-D-glycerate hydro-lyase (phosphoenolpyruvate-forming)" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
         <listOfReactants>
           <speciesReference constant="true" species="M_2-Phospho-D-glycerate_c" stoichiometry="1"/>
@@ -923,16 +882,6 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_D-glucose-6-phosphate_c" stoichiometry="1"/>
           <speciesReference constant="true" species="M_Pyruvate_c" stoichiometry="1"/>
-        </listOfProducts>
-      </reaction>
-      <reaction fast="false" id="R_rxn00083_c" reversible="true" name="NADPH:NAD+ oxidoreductase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
-        <listOfReactants>
-          <speciesReference constant="true" species="M_NADPH_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_NAD_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_NADH_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_NADP_c" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_rxn08659_c" reversible="true" name="(R)-lactate hydro-lyase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
@@ -1074,18 +1023,6 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_H+_c" stoichiometry="1"/>
           <speciesReference constant="true" species="M_L-Proline_c" stoichiometry="1"/>
-        </listOfProducts>
-      </reaction>
-      <reaction fast="false" id="R_rxn01286_c" reversible="false" name="D-Glyceraldehyde:NAD+ oxidoreductase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
-        <listOfReactants>
-          <speciesReference constant="true" species="M_D-Glyceraldehyde_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_H2O_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_NAD_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_Glycerate_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_H+_c" stoichiometry="2"/>
-          <speciesReference constant="true" species="M_NADH_c" stoichiometry="1"/>
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_rxn00779_c" reversible="false" name="D-glyceraldehyde 3-phosphate:NADP+ oxidoreductase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">

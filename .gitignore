@@ -9,4 +9,6 @@ likelihoods/
 metabolic_output/
 metabolic_output_V2/
 metabolic_output_V3/
+array_input/
+array_input_V2/
 **/Code/error_logs/

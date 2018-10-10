@@ -113,20 +113,6 @@
           </html>
         </notes>
       </species>
-      <species id="M_cpd00179_c" name="Maltose" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C12H22O11</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00027_c" name="D-Glucose" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C6H12O6</p>
-          </html>
-        </notes>
-      </species>
       <species id="M_cpd00067_e" name="H+" compartment="e" charge="1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -138,27 +124,6 @@
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C6H11O9P</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00290_c" name="D-fructose-1,6-bisphosphate" compartment="c" charge="-4">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C6H10O12P2</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd15495_c" name="Maltopentaose" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C30H52O26</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd01399_c" name="Maltotetraose" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C24H42O21</p>
           </html>
         </notes>
       </species>
@@ -218,13 +183,6 @@
           </html>
         </notes>
       </species>
-      <species id="M_cpd02147_c" name="4-Phosphoerythronate" compartment="c" charge="-3">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C4H6O8P</p>
-          </html>
-        </notes>
-      </species>
       <species id="M_cpd00102_c" name="Glyceraldehyde3-phosphate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -246,13 +204,6 @@
           </html>
         </notes>
       </species>
-      <species id="M_cpd00089_c" name="Glucose-1-phosphate" compartment="c" charge="-2">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C6H11O9P</p>
-          </html>
-        </notes>
-      </species>
       <species id="M_cpd00029_c" name="Acetate" compartment="c" charge="-1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -260,38 +211,10 @@
           </html>
         </notes>
       </species>
-      <species id="M_cpd00223_c" name="Glycerate" compartment="c" charge="-1">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C3H5O4</p>
-          </html>
-        </notes>
-      </species>
       <species id="M_cpd00169_c" name="3-Phosphoglycerate" compartment="c" charge="-3">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C3H4O7P</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00863_c" name="beta-D-Glucose 6-phosphate" compartment="c" charge="-2">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C6H11O9P</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd02431_c" name="1-Pyrroline-5-carboxylate" compartment="c" charge="-1">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C5H6NO2</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00080_e" name="Glycerol-3-phosphate" compartment="e" charge="-2">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C3H7O6P</p>
           </html>
         </notes>
       </species>
@@ -309,20 +232,6 @@
           </html>
         </notes>
       </species>
-      <species id="M_cpd00129_c" name="L-Proline" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C5H9NO2</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00501_c" name="beta-D-Glucose 1-phosphate" compartment="c" charge="-2">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C6H11O9P</p>
-          </html>
-        </notes>
-      </species>
       <species id="M_cpd00013_e" name="NH3" compartment="e" charge="1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -330,45 +239,10 @@
           </html>
         </notes>
       </species>
-      <species id="M_cpd00159_c" name="L-Lactate" compartment="c" charge="-1">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C3H5O3</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00843_c" name="Tartronate semialdehyde" compartment="c" charge="-1">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C3H3O4</p>
-          </html>
-        </notes>
-      </species>
       <species id="M_cpd00009_e" name="Phosphate" compartment="e" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: HO4P</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00227_c" name="L-Homoserine" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C4H9NO3</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00346_c" name="L-Aspartate4-semialdehyde" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C4H7NO3</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00190_c" name="beta-D-Glucose" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C6H12O6</p>
           </html>
         </notes>
       </species>
@@ -400,27 +274,6 @@
           </html>
         </notes>
       </species>
-      <species id="M_cpd00804_c" name="Sorbitol 6-phosphate" compartment="c" charge="-2">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C6H13O9P</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00907_c" name="alpha-D-glucose-1,6-biphosphate" compartment="c" charge="-2">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C6H12O12P2</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00082_c" name="D-Fructose" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C6H12O6</p>
-          </html>
-        </notes>
-      </species>
       <species id="M_cpd00238_c" name="Sedoheptulose7-phosphate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -435,20 +288,6 @@
           </html>
         </notes>
       </species>
-      <species id="M_cpd00146_c" name="Carbamoylphosphate" compartment="c" charge="-2">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: CH2NO5P</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd01262_c" name="Amylotriose" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C18H32O16</p>
-          </html>
-        </notes>
-      </species>
       <species id="M_cpd00482_c" name="2-Phospho-D-glycerate" compartment="c" charge="-3">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -460,13 +299,6 @@
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C6H10O10P</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd01329_c" name="Maltohexaose" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C36H62O31</p>
           </html>
         </notes>
       </species>
@@ -491,34 +323,6 @@
           </html>
         </notes>
       </species>
-      <species id="M_cpd15494_c" name="Maltoheptaose" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C42H72O36</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00137_e" name="Citrate" compartment="e" charge="-3">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C6H5O7</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00007_c" name="O2" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: O2</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd03606_c" name="2-Oxo-3-hydroxy-4-phosphobutanoate" compartment="c" charge="-3">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C4H4O8P</p>
-          </html>
-        </notes>
-      </species>
       <species id="M_cpd00075_c" name="Nitrite" compartment="c" charge="-1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -533,31 +337,10 @@
           </html>
         </notes>
       </species>
-      <species id="M_cpd00129_e" name="L-Proline" compartment="e" charge="0">
+      <species id="M_cpd00137_e" name="Citrate" compartment="e" charge="-3">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C5H9NO2</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00418_c" name="NO" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: NO</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd03527_c" name="N-(omega)-Hydroxyarginine" compartment="c" charge="1">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C6H15N4O3</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00274_c" name="Citrulline" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C6H13N3O3</p>
+            <p>FORMULA: C6H5O7</p>
           </html>
         </notes>
       </species>
@@ -568,6 +351,13 @@
           </html>
         </notes>
       </species>
+      <species id="M_cpd00007_c" name="O2" compartment="c" charge="0">
+        <notes>
+          <html xmlns="http://www.w3.org/1999/xhtml">
+            <p>FORMULA: O2</p>
+          </html>
+        </notes>
+      </species>
       <species id="M_cpd00428_c" name="2-Oxopropanal" compartment="c" charge="0">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -575,17 +365,17 @@
           </html>
         </notes>
       </species>
-      <species id="M_cpd00081_c" name="Sulfite" compartment="c" charge="-1">
+      <species id="M_cpd00159_c" name="L-Lactate" compartment="c" charge="-1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: HO3S</p>
+            <p>FORMULA: C3H5O3</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00239_c" name="H2S" compartment="c" charge="-1">
+      <species id="M_cpd11640_c" name="H2" compartment="c" charge="0">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: HS</p>
+            <p>FORMULA: H2</p>
           </html>
         </notes>
       </species>
@@ -603,10 +393,24 @@
           </html>
         </notes>
       </species>
-      <species id="M_cpd11640_c" name="H2" compartment="c" charge="0">
+      <species id="M_cpd00274_c" name="Citrulline" compartment="c" charge="0">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: H2</p>
+            <p>FORMULA: C6H13N3O3</p>
+          </html>
+        </notes>
+      </species>
+      <species id="M_cpd00418_c" name="NO" compartment="c" charge="0">
+        <notes>
+          <html xmlns="http://www.w3.org/1999/xhtml">
+            <p>FORMULA: NO</p>
+          </html>
+        </notes>
+      </species>
+      <species id="M_cpd03527_c" name="N-(omega)-Hydroxyarginine" compartment="c" charge="1">
+        <notes>
+          <html xmlns="http://www.w3.org/1999/xhtml">
+            <p>FORMULA: C6H15N4O3</p>
           </html>
         </notes>
       </species>
@@ -638,48 +442,6 @@
           </html>
         </notes>
       </species>
-      <species id="M_cpd00137_e_boundary" name="Citrate" compartment="e" boundaryCondition="true" charge="-3">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C6H5O7</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00907_c_boundary" name="alpha-D-glucose-1,6-biphosphate" compartment="c" boundaryCondition="true" charge="-2">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C6H12O12P2</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00007_c_boundary" name="O2" compartment="c" boundaryCondition="true" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: O2</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd03606_c_boundary" name="2-Oxo-3-hydroxy-4-phosphobutanoate" compartment="c" boundaryCondition="true" charge="-3">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C4H4O8P</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00146_c_boundary" name="Carbamoylphosphate" compartment="c" boundaryCondition="true" charge="-2">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: CH2NO5P</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd00011_c_boundary" name="CO2" compartment="c" boundaryCondition="true" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: CO2</p>
-          </html>
-        </notes>
-      </species>
       <species id="M_cpd00016_c_boundary" name="Pyridoxal phosphate" compartment="c" boundaryCondition="true" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -701,17 +463,17 @@
           </html>
         </notes>
       </species>
-      <species id="M_cpd15494_c_boundary" name="Maltoheptaose" compartment="c" boundaryCondition="true" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: C42H72O36</p>
-          </html>
-        </notes>
-      </species>
       <species id="M_cpd00528_c_boundary" name="N2" compartment="c" boundaryCondition="true" charge="0">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: N2</p>
+          </html>
+        </notes>
+      </species>
+      <species id="M_cpd00137_e_boundary" name="Citrate" compartment="e" boundaryCondition="true" charge="-3">
+        <notes>
+          <html xmlns="http://www.w3.org/1999/xhtml">
+            <p>FORMULA: C6H5O7</p>
           </html>
         </notes>
       </species>
@@ -744,113 +506,6 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_rxn08934_c" name="Maltodextrin glucosidase (maltopentaose)" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.142 or 220668.9.peg.156 or 220668.9.peg.159 or 220668.9.peg.3028</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd15495_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd01399_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00027_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00545_c" name="ATP:D-fructose-6-phosphate 1-phosphotransferase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.1599 or ( 220668.9.peg.1121 or 220668.9.peg.857 )</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00072_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00290_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn01331_c" name="D-erythrose 4-phosphate:NAD+ oxidoreductase" reversible="false">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.666</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00236_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd02147_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="0" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00225_c" name="ATP:acetate phosphotransferase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.174 or 220668.9.peg.1896 or 220668.9.peg.263</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00029_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00196_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
       <reaction id="R_rxn00148_c" name="ATP:pyruvate 2-O-phosphotransferase" reversible="true">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -858,13 +513,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00061_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00061_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -872,35 +527,6 @@
           </math>
           <listOfParameters>
             <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn05158_c" name="ATP phosphohydrolase (glycerol-3-phosphate-importing)" reversible="false">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.1118 or 220668.9.peg.1117</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00080_e" stoichiometry="1"/>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00080_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="0" units="mmol_per_gDW_per_hr"/>
             <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
             <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
             <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
@@ -914,14 +540,14 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00203_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -942,8 +568,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00080_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00080_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_cpd00095_c" stoichiometry="1"/>
@@ -986,33 +612,6 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_rxn01280_c" name="(R)-Glycerate:NAD+ oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.2140 or 220668.9.peg.2140</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00223_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00843_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
       <reaction id="R_rxn05145_c" name="phosphate-transporting ATPase" reversible="true">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -1020,92 +619,14 @@
           </html>
         </notes>
         <listOfReactants>
+          <speciesReference species="M_cpd00009_e" stoichiometry="1"/>
           <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00009_e" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00009_c" stoichiometry="2"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn01301_c" name="L-Homoserine:NAD+ oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: ( 220668.9.peg.2132 or 220668.9.peg.475 ) or ( 220668.9.peg.2132 or 220668.9.peg.475 )</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00227_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00346_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00499_c" name="(S)-Lactate:NAD+ oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: ( 220668.9.peg.1057 or 220668.9.peg.1985 or 220668.9.peg.297 or 220668.9.peg.444 or 220668.9.peg.931 ) or ( 220668.9.peg.1057 or 220668.9.peg.1985 or 220668.9.peg.297 or 220668.9.peg.444 or 220668.9.peg.931 )</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00159_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00747_c" name="D-glyceraldehyde-3-phosphate aldose-ketose-isomerase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.668</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00095_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1126,171 +647,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00221_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00109_c" stoichiometry="2"/>
+          <speciesReference species="M_cpd00221_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
+          <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00067_c" stoichiometry="2"/>
           <speciesReference species="M_cpd00110_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00162_c" name="oxaloacetate carboxy-lyase (pyruvate-forming)" reversible="false">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.1463</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00032_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00011_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="0" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn01169_c" name="ATP:beta-D-glucose 6-phosphotransferase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.1325</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00190_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00863_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn01132_c" name="Maltose:phosphate 1-beta-D-glucosyltransferase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.1459 or 220668.9.peg.149</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00179_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00027_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00501_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn01281_c" name="(R)-Glycerate:NADP+ oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.2140 or 220668.9.peg.2140</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00223_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00843_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn03886_c" name="D-sorbitol-6-phosphate:NAD 2-oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: ( 220668.9.peg.3025 or 220668.9.peg.3055 ) or ( 220668.9.peg.3025 or 220668.9.peg.3055 )</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00804_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00072_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00786_c" name="D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.280</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00290_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00095_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1330,33 +693,6 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_rxn01215_c" name="3-phospho-D-glyceroyl-phosphate:alpha-D-glucose-1-phosphate 6-phosphotransferase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.1599</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00203_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00089_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00907_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00169_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
       <reaction id="R_rxn00173_c" name="acetyl-CoA:phosphate acetyltransferase" reversible="true">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -1364,12 +700,12 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00022_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00022_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00196_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00010_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00196_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1390,13 +726,13 @@
           </html>
         </notes>
         <listOfReactants>
+          <speciesReference species="M_cpd00023_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00013_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00023_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00053_c" stoichiometry="1"/>
         </listOfProducts>
@@ -1419,118 +755,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00221_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00221_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn01967_c" name="beta-D-Glucose 1-phosphate 1,6-phosphomutase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: ( 220668.9.peg.25 or 220668.9.peg.53 ) or ( 220668.9.peg.25 or 220668.9.peg.53 )</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00501_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00863_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn01116_c" name="D-Ribulose-5-phosphate 3-epimerase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.1369 or 220668.9.peg.1006</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00171_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00198_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00145_c" name="(S)-Lactate:ferricytochrome-c 2-oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.1057 or 220668.9.peg.1985 or 220668.9.peg.297 or 220668.9.peg.444 or 220668.9.peg.931</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00159_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00109_c" stoichiometry="2"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00110_c" stoichiometry="2"/>
           <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00113_c" name="Carbon-dioxide:ammonia ligase (ADP-forming,carbamate-phosphorylating)" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.395</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00002_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00011_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00013_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="3"/>
-          <speciesReference species="M_cpd00008_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00146_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1571,32 +802,6 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_rxn05746_c" name="Maltodextrin glucosidase (maltotriose)" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.142 or 220668.9.peg.156 or 220668.9.peg.159 or 220668.9.peg.3028</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd01262_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00027_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00179_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
       <reaction id="R_rxn01106_c" name="2-Phospho-D-glycerate 2,3-phosphomutase" reversible="true">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -1621,60 +826,6 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_rxn00931_c" name="L-Proline:NADP+ 5-oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.465</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00129_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd02431_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="2"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00547_c" name="ATP:D-fructose 6-phosphotransferase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.152 or 220668.9.peg.3036</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00082_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00072_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
       <reaction id="R_rxn11040_c" name="RXN-3341.c" reversible="true">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -1682,67 +833,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00284_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00011_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00171_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00011_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn10042_c" name="F(1)-ATPase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.1996 and 220668.9.peg.1997 and 220668.9.peg.1998 and 220668.9.peg.1999</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00067_e" stoichiometry="4"/>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="3"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn08935_c" name="Maltodextrin glucosidase (maltohexaose)" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.142 or 220668.9.peg.156 or 220668.9.peg.159 or 220668.9.peg.3028</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd01329_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00027_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd15495_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1767,9 +864,9 @@
           <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00236_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00196_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1793,8 +890,8 @@
           <speciesReference species="M_cpd00137_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00029_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00032_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00029_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1815,8 +912,8 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00911_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00911_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
@@ -1847,109 +944,6 @@
         <listOfProducts>
           <speciesReference species="M_cpd00236_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00072_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn01302_c" name="L-homoserine:NADP+ oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: ( 220668.9.peg.2132 or 220668.9.peg.475 ) or ( 220668.9.peg.2132 or 220668.9.peg.475 )</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00227_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00346_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn08933_c" name="Maltodextrin glucosidase (maltotetraose)" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.142 or 220668.9.peg.156 or 220668.9.peg.159 or 220668.9.peg.3028</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd01399_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00027_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd01262_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00223_c" name="D-glucose aldose-ketose-isomerase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.2107</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00027_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00082_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn08936_c" name="Maltodextrin glucosidase (maltoheptaose)" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.142 or 220668.9.peg.156 or 220668.9.peg.159 or 220668.9.peg.3028</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd15494_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00027_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd01329_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -2025,9 +1019,9 @@
           <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
+          <speciesReference species="M_cpd00196_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00196_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -2041,57 +1035,6 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_rxn00216_c" name="ATP:D-glucose 6-phosphotransferase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.1325</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00027_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00079_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00558_c" name="D-glucose-6-phosphate aldose-ketose-isomerase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.2107</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00079_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00072_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
       <reaction id="R_rxn01200_c" name="Sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase" reversible="true">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -2099,63 +1042,12 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00238_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_cpd00198_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00101_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn01171_c" name="D-glucose 1-epimerase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.1460 or 220668.9.peg.2903 or 220668.9.peg.701</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00027_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00190_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00929_c" name="L-Proline:NAD+ 5-oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: 220668.9.peg.465</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00129_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd02431_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="2"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -2180,9 +1072,9 @@
           <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00911_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00911_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -2203,16 +1095,16 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00053_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00171_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00053_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_cpd00023_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00001_c" stoichiometry="3"/>
           <speciesReference species="M_cpd00016_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00001_c" stoichiometry="3"/>
+          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -2322,150 +1214,6 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_EX_cpd00137_e" name="cpd00137_e exchange" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: place_holder</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00137_e" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00137_e_boundary" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_DM_cpd00907_c" name="alpha-D-glucose-1,6-biphosphate demand" reversible="false">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: place_holder</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00907_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00907_c_boundary" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="0" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_DM_cpd00007_c" name="O2 demand" reversible="false">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: place_holder</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00007_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00007_c_boundary" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="0" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_DM_cpd03606_c" name="2-Oxo-3-hydroxy-4-phosphobutanoate demand" reversible="false">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: place_holder</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd03606_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd03606_c_boundary" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="0" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_DM_cpd00146_c" name="Carbamoylphosphate demand" reversible="false">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: place_holder</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00146_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00146_c_boundary" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="0" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_DM_cpd00011_c" name="CO2 demand" reversible="false">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: place_holder</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00011_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00011_c_boundary" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="0" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
       <reaction id="R_DM_cpd00016_c" name="Pyridoxal phosphate demand" reversible="false">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -2538,30 +1286,6 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_DM_cpd15494_c" name="Maltoheptaose demand" reversible="false">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>GENE ASSOCIATION: place_holder</p>
-          </html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd15494_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd15494_c_boundary" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="0" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
       <reaction id="R_DM_cpd00528_c" name="N2 demand" reversible="false">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
@@ -2586,316 +1310,17 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_rxn08127_c" name="Amylomaltase (maltotetraose)" reversible="true">
+      <reaction id="R_EX_cpd00137_e" name="cpd00137_e exchange" reversible="true">
         <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
+          <html xmlns="http://www.w3.org/1999/xhtml">
+            <p>GENE ASSOCIATION: place_holder</p>
+          </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd01399_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00179_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00137_e" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00027_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd15495_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn05638_c" name="TRANS-RXNBWI-115637.ce.maizeexp.PRO_PRO" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00067_e" stoichiometry="1"/>
-          <speciesReference species="M_cpd00129_e" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00129_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn05578_c" name="TRANS-RXNBWI-115531.ce" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00067_e" stoichiometry="1"/>
-          <speciesReference species="M_cpd00080_e" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00080_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn05147_c" name="D-Glucose-ABC transport" reversible="false">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00027_e" stoichiometry="1"/>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00027_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="0" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00779_c" name="D-glyceraldehyde 3-phosphate:NADP+ oxidoreductase" reversible="false">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00169_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="2"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="0" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00777_c" name="D-ribose-5-phosphate aldose-ketose-isomerase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00101_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00171_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00082_c" name="N-(omega)-Hydroxyarginine,NADPH:oxygen oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00007_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd03527_c" stoichiometry="2"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00418_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00274_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="5"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn03884_c" name="2-dehydro-3-deoxy-D-gluconate-6-phosphate D-glyceraldehyde-3-phosphate-lyase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd02711_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn08659_c" name="(R)-lactate hydro-lyase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00428_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00221_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00603_c" name="D-Sorbitol 6-phosphate:NADP+ 1-oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00804_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00079_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00623_c" name="hydrogen-sulfide:NADP+ oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="3"/>
-          <speciesReference species="M_cpd00006_c" stoichiometry="3"/>
-          <speciesReference species="M_cpd00239_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00081_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00005_c" stoichiometry="3"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="3"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn03978_c" name="ammonia:ferricytochrome-c oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00013_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00001_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00109_c" stoichiometry="6"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00110_c" stoichiometry="6"/>
-          <speciesReference species="M_cpd00075_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="8"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn02939_c" name="4-phospho-D-erythronate:NAD+ 2-oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd02147_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd03606_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00137_e_boundary" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -2937,9 +1362,9 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
+          <speciesReference species="M_cpd00067_c" stoichiometry="4"/>
           <speciesReference species="M_cpd00007_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00110_c" stoichiometry="4"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="4"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_cpd00001_c" stoichiometry="2"/>
@@ -2957,19 +1382,39 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_rxn05938_c" name="pyruvate ferredoxin oxidoreductase" reversible="true">
+      <reaction id="R_rxn08659_c" name="(R)-lactate hydro-lyase" reversible="true">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00022_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00011_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd11620_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00428_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd11621_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00010_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00221_c" stoichiometry="1"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <ci> FLUX_VALUE </ci>
+          </math>
+          <listOfParameters>
+            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
+            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
+          </listOfParameters>
+        </kineticLaw>
+      </reaction>
+      <reaction id="R_rxn03884_c" name="2-dehydro-3-deoxy-D-gluconate-6-phosphate D-glyceraldehyde-3-phosphate-lyase" reversible="true">
+        <notes>
+          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_cpd02711_c" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
@@ -2993,33 +1438,8 @@
           <speciesReference species="M_cpd00137_e" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00137_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn06990_c" name="Ferredoxin:NAD oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd11620_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd11621_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -3033,93 +1453,19 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_rxn05893_c" name="Ammonia:ferredoxin oxidoreductase" reversible="true">
+      <reaction id="R_rxn03978_c" name="ammonia:ferricytochrome-c oxidoreductase" reversible="true">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
+          <speciesReference species="M_cpd00109_c" stoichiometry="6"/>
           <speciesReference species="M_cpd00001_c" stoichiometry="2"/>
           <speciesReference species="M_cpd00013_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd11621_c" stoichiometry="6"/>
         </listOfReactants>
         <listOfProducts>
           <speciesReference species="M_cpd00067_c" stoichiometry="8"/>
-          <speciesReference species="M_cpd11620_c" stoichiometry="6"/>
+          <speciesReference species="M_cpd00110_c" stoichiometry="6"/>
           <speciesReference species="M_cpd00075_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn14091_c" name="N-(omega)-Hydroxyarginine,NADPH:oxygen oxidoreductase (nitric-oxide-forming)" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00007_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd03527_c" stoichiometry="2"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00001_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00274_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00418_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn10945_c" name="L-proline transport via diffusion (extracellular to periplasm)" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00129_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00129_e" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn07200_c" name="hydrogen:NADP+ oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd11640_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -3141,8 +1487,8 @@
           <speciesReference species="M_cpd00095_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00428_c" stoichiometry="1"/>
           <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00428_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -3150,164 +1496,6 @@
           </math>
           <listOfParameters>
             <parameter id="LOWER_BOUND" value="0" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00251_c" name="phosphate:oxaloacetate carboxy-lyase (adding phosphate;phosphoenolpyruvate-forming)" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00032_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00061_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00011_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00705_c" name="D-Glucose-1-phosphate:D-glucose-1-phosphate 6-phosphotransferase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00089_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="2"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00907_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00027_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00613_c" name="sn-glycerol-3-phosphate:NADP+ 1-oxidoreductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00080_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn00257_c" name="acetyl-CoA:oxaloacetate C-acetyltransferase [(pro-S)-carboxymethyl-forming, ADP-phosphorylating]" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00137_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00010_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00032_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00022_c" stoichiometry="1"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn06874_c" name="reduced ferredoxin:dinitrogen oxidoreductase (ATP-hydrolysing)" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="16"/>
-          <speciesReference species="M_cpd00002_c" stoichiometry="16"/>
-          <speciesReference species="M_cpd00528_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd11620_c" stoichiometry="8"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00013_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd11640_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00008_c" stoichiometry="16"/>
-          <speciesReference species="M_cpd11621_c" stoichiometry="8"/>
-          <speciesReference species="M_cpd00009_c" stoichiometry="16"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="6"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
-            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
-            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
-          </listOfParameters>
-        </kineticLaw>
-      </reaction>
-      <reaction id="R_rxn05902_c" name="sulphite reductase" reversible="true">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
-        </notes>
-        <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="3"/>
-          <speciesReference species="M_cpd00239_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd11621_c" stoichiometry="3"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="M_cpd00081_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd11620_c" stoichiometry="3"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="6"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <ci> FLUX_VALUE </ci>
-          </math>
-          <listOfParameters>
-            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
             <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
             <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
             <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
@@ -3339,15 +1527,204 @@
           </listOfParameters>
         </kineticLaw>
       </reaction>
-      <reaction id="R_rxn01057_c" name="lactate racemase" reversible="true">
+      <reaction id="R_rxn06874_c" name="reduced ferredoxin:dinitrogen oxidoreductase (ATP-hydrolysing)" reversible="true">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00159_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00528_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00002_c" stoichiometry="16"/>
+          <speciesReference species="M_cpd00001_c" stoichiometry="16"/>
+          <speciesReference species="M_cpd11620_c" stoichiometry="8"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00221_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00067_c" stoichiometry="6"/>
+          <speciesReference species="M_cpd00009_c" stoichiometry="16"/>
+          <speciesReference species="M_cpd11640_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00008_c" stoichiometry="16"/>
+          <speciesReference species="M_cpd00013_c" stoichiometry="2"/>
+          <speciesReference species="M_cpd11621_c" stoichiometry="8"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <ci> FLUX_VALUE </ci>
+          </math>
+          <listOfParameters>
+            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
+            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
+          </listOfParameters>
+        </kineticLaw>
+      </reaction>
+      <reaction id="R_rxn05893_c" name="Ammonia:ferredoxin oxidoreductase" reversible="true">
+        <notes>
+          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_cpd00001_c" stoichiometry="2"/>
+          <speciesReference species="M_cpd11621_c" stoichiometry="6"/>
+          <speciesReference species="M_cpd00013_c" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_cpd00067_c" stoichiometry="8"/>
+          <speciesReference species="M_cpd11620_c" stoichiometry="6"/>
+          <speciesReference species="M_cpd00075_c" stoichiometry="1"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <ci> FLUX_VALUE </ci>
+          </math>
+          <listOfParameters>
+            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
+            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
+          </listOfParameters>
+        </kineticLaw>
+      </reaction>
+      <reaction id="R_rxn05938_c" name="pyruvate ferredoxin oxidoreductase" reversible="true">
+        <notes>
+          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00011_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00022_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd11620_c" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_cpd00010_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd11621_c" stoichiometry="1"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <ci> FLUX_VALUE </ci>
+          </math>
+          <listOfParameters>
+            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
+            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
+          </listOfParameters>
+        </kineticLaw>
+      </reaction>
+      <reaction id="R_rxn14091_c" name="N-(omega)-Hydroxyarginine,NADPH:oxygen oxidoreductase (nitric-oxide-forming)" reversible="true">
+        <notes>
+          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00007_c" stoichiometry="2"/>
+          <speciesReference species="M_cpd03527_c" stoichiometry="2"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00001_c" stoichiometry="2"/>
+          <speciesReference species="M_cpd00418_c" stoichiometry="2"/>
+          <speciesReference species="M_cpd00274_c" stoichiometry="2"/>
+          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <ci> FLUX_VALUE </ci>
+          </math>
+          <listOfParameters>
+            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
+            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
+          </listOfParameters>
+        </kineticLaw>
+      </reaction>
+      <reaction id="R_rxn00777_c" name="D-ribose-5-phosphate aldose-ketose-isomerase" reversible="true">
+        <notes>
+          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_cpd00101_c" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_cpd00171_c" stoichiometry="1"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <ci> FLUX_VALUE </ci>
+          </math>
+          <listOfParameters>
+            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
+            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
+          </listOfParameters>
+        </kineticLaw>
+      </reaction>
+      <reaction id="R_rxn00257_c" name="acetyl-CoA:oxaloacetate C-acetyltransferase [(pro-S)-carboxymethyl-forming, ADP-phosphorylating]" reversible="true">
+        <notes>
+          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_cpd00010_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00137_c" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00022_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00032_c" stoichiometry="1"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <ci> FLUX_VALUE </ci>
+          </math>
+          <listOfParameters>
+            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
+            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
+          </listOfParameters>
+        </kineticLaw>
+      </reaction>
+      <reaction id="R_rxn07200_c" name="hydrogen:NADP+ oxidoreductase" reversible="true">
+        <notes>
+          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_cpd11640_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+            <ci> FLUX_VALUE </ci>
+          </math>
+          <listOfParameters>
+            <parameter id="LOWER_BOUND" value="-1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="OBJECTIVE_COEFFICIENT" value="0" units="dimensionless"/>
+            <parameter id="UPPER_BOUND" value="1000" units="mmol_per_gDW_per_hr"/>
+            <parameter id="FLUX_VALUE" value="0" units="mmol_per_gDW_per_hr"/>
+          </listOfParameters>
+        </kineticLaw>
+      </reaction>
+      <reaction id="R_rxn00082_c" name="N-(omega)-Hydroxyarginine,NADPH:oxygen oxidoreductase" reversible="true">
+        <notes>
+          <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_cpd00007_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
+          <speciesReference species="M_cpd03527_c" stoichiometry="2"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_cpd00067_c" stoichiometry="5"/>
+          <speciesReference species="M_cpd00418_c" stoichiometry="2"/>
+          <speciesReference species="M_cpd00274_c" stoichiometry="2"/>
+          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">

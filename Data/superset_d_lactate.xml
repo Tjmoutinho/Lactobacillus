@@ -15,462 +15,462 @@
       <compartment id="e" name="Extracellular" size="1"/>
     </listOfCompartments>
     <listOfSpecies>
-      <species id="M_cpd00067_c" name="H+" compartment="c" charge="1">
+      <species name="H+" compartment="c" charge="1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: H</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00002_c" name="ATP" compartment="c" charge="-3">
+      <species id="M_ATP_c" name="ATP" compartment="c" charge="-3">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C10H13N5O13P3</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00008_c" name="ADP" compartment="c" charge="-2">
+      <species id="M_ADP_c" name="ADP" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C10H13N5O10P2</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00009_c" name="Phosphate" compartment="c" charge="-2">
+      <species id="M_Phosphate_c" name="Phosphate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: HO4P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00001_c" name="H2O" compartment="c" charge="0">
+      <species id="M_H2O_c" name="H2O" compartment="c" charge="0">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: H2O</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00022_c" name="Acetyl-CoA" compartment="c" charge="-4">
+      <species id="M_Acetyl__CoA_c" name="Acetyl-CoA" compartment="c" charge="-4">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C23H34N7O17P3S</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00010_c" name="CoA" compartment="c" charge="-4">
+      <species id="M_CoA_c" name="CoA" compartment="c" charge="-4">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C21H32N7O16P3S</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00020_c" name="Pyruvate" compartment="c" charge="-1">
+      <species id="M_Pyruvate_c" name="Pyruvate" compartment="c" charge="-1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C3H3O3</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00023_c" name="L-Glutamate" compartment="c" charge="-1">
+      <species id="M_L__Glutamate_c" name="L-Glutamate" compartment="c" charge="-1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C5H8NO4</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00004_c" name="NADH" compartment="c" charge="-2">
+      <species id="M_NADH_c" name="NADH" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C21H27N7O14P2</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00003_c" name="NAD" compartment="c" charge="-1">
+      <species id="M_NAD_c" name="NAD" compartment="c" charge="-1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C21H26N7O14P2</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00032_c" name="Oxaloacetate" compartment="c" charge="-2">
+      <species id="M_Oxaloacetate_c" name="Oxaloacetate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C4H2O5</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00011_c" name="CO2" compartment="c" charge="0">
+      <species id="M_CO2_c" name="CO2" compartment="c" charge="0">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: CO2</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00061_c" name="Phosphoenolpyruvate" compartment="c" charge="-3">
+      <species id="M_Phosphoenolpyruvate_c" name="Phosphoenolpyruvate" compartment="c" charge="-3">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C3H2O6P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00067_e" name="H+" compartment="e" charge="1">
+      <species name="H+" compartment="e" charge="1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: H</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00072_c" name="D-fructose-6-phosphate" compartment="c" charge="-2">
+      <species id="M_D__fructose__6__phosphate_c" name="D-fructose-6-phosphate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C6H11O9P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00006_c" name="NADP" compartment="c" charge="-3">
+      <species id="M_NADP_c" name="NADP" compartment="c" charge="-3">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C21H25N7O17P3</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00005_c" name="NADPH" compartment="c" charge="-4">
+      <species id="M_NADPH_c" name="NADPH" compartment="c" charge="-4">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C21H26N7O17P3</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00101_c" name="ribose-5-phosphate" compartment="c" charge="-2">
+      <species id="M_ribose__5__phosphate_c" name="ribose-5-phosphate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C5H9O8P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00013_c" name="NH3" compartment="c" charge="1">
+      <species id="M_NH3_c" name="NH3" compartment="c" charge="1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: H4N</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00198_c" name="D-Xylulose5-phosphate" compartment="c" charge="-2">
+      <species id="M_D__Xylulose5__phosphate_c" name="D-Xylulose5-phosphate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C5H9O8P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00080_c" name="Glycerol-3-phosphate" compartment="c" charge="-2">
+      <species id="M_Glycerol__3__phosphate_c" name="Glycerol-3-phosphate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C3H7O6P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00171_c" name="D-Ribulose5-phosphate" compartment="c" charge="-2">
+      <species id="M_D__Ribulose5__phosphate_c" name="D-Ribulose5-phosphate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C5H9O8P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00236_c" name="D-Erythrose4-phosphate" compartment="c" charge="-2">
+      <species id="M_D__Erythrose4__phosphate_c" name="D-Erythrose4-phosphate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C4H7O7P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00102_c" name="Glyceraldehyde3-phosphate" compartment="c" charge="-2">
+      <species id="M_Glyceraldehyde3__phosphate_c" name="Glyceraldehyde3-phosphate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C3H5O6P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00196_c" name="Acetylphosphate" compartment="c" charge="-2">
+      <species id="M_Acetylphosphate_c" name="Acetylphosphate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C2H3O5P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00053_c" name="L-Glutamine" compartment="c" charge="0">
+      <species id="M_L__Glutamine_c" name="L-Glutamine" compartment="c" charge="0">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C5H10N2O3</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00029_c" name="Acetate" compartment="c" charge="-1">
+      <species id="M_Acetate_c" name="Acetate" compartment="c" charge="-1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C2H3O2</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00169_c" name="3-Phosphoglycerate" compartment="c" charge="-3">
+      <species id="M_3__Phosphoglycerate_c" name="3-Phosphoglycerate" compartment="c" charge="-3">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C3H4O7P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00203_c" name="1,3-Bisphospho-D-glycerate" compartment="c" charge="-4">
+      <species name="1,3-Bisphospho-D-glycerate" compartment="c" charge="-4">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C3H4O10P2</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00095_c" name="Glycerone-phosphate" compartment="c" charge="-2">
+      <species id="M_Glycerone__phosphate_c" name="Glycerone-phosphate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C3H5O6P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00013_e" name="NH3" compartment="e" charge="1">
+      <species id="M_NH3_e" name="NH3" compartment="e" charge="1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: H4N</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00009_e" name="Phosphate" compartment="e" charge="-2">
+      <species id="M_Phosphate_e" name="Phosphate" compartment="e" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: HO4P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00109_c" name="Cytochrome c3+" compartment="c" charge="5">
+      <species name="Cytochrome c3+" compartment="c" charge="5">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C42H52FeN8O6S2</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00221_c" name="D-Lactate" compartment="c" charge="-1">
+      <species id="M_D__Lactate_c" name="D-Lactate" compartment="c" charge="-1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C3H5O3</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00110_c" name="Cytochrome c2+" compartment="c" charge="4">
+      <species name="Cytochrome c2+" compartment="c" charge="4">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C42H52FeN8O6S2</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00027_e" name="D-Glucose" compartment="e" charge="0">
+      <species id="M_D__Glucose_e" name="D-Glucose" compartment="e" charge="0">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C6H12O6</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00238_c" name="Sedoheptulose7-phosphate" compartment="c" charge="-2">
+      <species id="M_Sedoheptulose7__phosphate_c" name="Sedoheptulose7-phosphate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C7H13O10P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00079_c" name="D-glucose-6-phosphate" compartment="c" charge="-2">
+      <species id="M_D__glucose__6__phosphate_c" name="D-glucose-6-phosphate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C6H11O9P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00482_c" name="2-Phospho-D-glycerate" compartment="c" charge="-3">
+      <species id="M_2__Phospho__D__glycerate_c" name="2-Phospho-D-glycerate" compartment="c" charge="-3">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C3H4O7P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00284_c" name="6-Phospho-D-gluconate" compartment="c" charge="-3">
+      <species id="M_6__Phospho__D__gluconate_c" name="6-Phospho-D-gluconate" compartment="c" charge="-3">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C6H10O10P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00137_c" name="Citrate" compartment="c" charge="-3">
+      <species id="M_Citrate_c" name="Citrate" compartment="c" charge="-3">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C6H5O7</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00016_c" name="Pyridoxal phosphate" compartment="c" charge="-2">
+      <species id="M_Pyridoxal_phosphate_c" name="Pyridoxal phosphate" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C8H8NO6P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00911_c" name="6-phospho-D-glucono-1-5-lactone" compartment="c" charge="-2">
+      <species id="M_6__phospho__D__glucono__1__5__lactone_c" name="6-phospho-D-glucono-1-5-lactone" compartment="c" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C6H9O9P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00075_c" name="Nitrite" compartment="c" charge="-1">
+      <species id="M_Nitrite_c" name="Nitrite" compartment="c" charge="-1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: NO2</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00528_c" name="N2" compartment="c" charge="0">
+      <species id="M_N2_c" name="N2" compartment="c" charge="0">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: N2</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00137_e" name="Citrate" compartment="e" charge="-3">
+      <species id="M_Citrate_e" name="Citrate" compartment="e" charge="-3">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C6H5O7</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd02711_c" name="2-Keto-3-deoxy-6-phosphogluconate" compartment="c" charge="-3">
+      <species id="M_2__Keto__3__deoxy__6__phosphogluconate_c" name="2-Keto-3-deoxy-6-phosphogluconate" compartment="c" charge="-3">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C6H8O9P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00007_c" name="O2" compartment="c" charge="0">
+      <species id="M_O2_c" name="O2" compartment="c" charge="0">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: O2</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00428_c" name="2-Oxopropanal" compartment="c" charge="0">
+      <species id="M_2__Oxopropanal_c" name="2-Oxopropanal" compartment="c" charge="0">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C3H4O2</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00159_c" name="L-Lactate" compartment="c" charge="-1">
+      <species id="M_L__Lactate_c" name="L-Lactate" compartment="c" charge="-1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C3H5O3</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd11640_c" name="H2" compartment="c" charge="0">
+      <species id="M_H2_c" name="H2" compartment="c" charge="0">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: H2</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd11621_c" name="Oxidizedferredoxin" compartment="c" charge="6">
+      <species id="M_Reducedferredoxin_c" name="Reducedferredoxin" compartment="c" charge="4">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: Fe2R4S6</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd11620_c" name="Reducedferredoxin" compartment="c" charge="4">
+      <species id="M_Oxidizedferredoxin_c" name="Oxidizedferredoxin" compartment="c" charge="6">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: Fe2R4S6</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00274_c" name="Citrulline" compartment="c" charge="0">
+      <species id="M_Citrulline_c" name="Citrulline" compartment="c" charge="0">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C6H13N3O3</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00418_c" name="NO" compartment="c" charge="0">
-        <notes>
-          <html xmlns="http://www.w3.org/1999/xhtml">
-            <p>FORMULA: NO</p>
-          </html>
-        </notes>
-      </species>
-      <species id="M_cpd03527_c" name="N-(omega)-Hydroxyarginine" compartment="c" charge="1">
+      <species name="N-(omega)-Hydroxyarginine" compartment="c" charge="1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C6H15N4O3</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00067_e_boundary" name="H+" compartment="e" boundaryCondition="true" charge="1">
+      <species id="M_NO_c" name="NO" compartment="c" charge="0">
+        <notes>
+          <html xmlns="http://www.w3.org/1999/xhtml">
+            <p>FORMULA: NO</p>
+          </html>
+        </notes>
+      </species>
+      <species name="H+" compartment="e" boundaryCondition="true" charge="1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: H</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00013_e_boundary" name="NH3" compartment="e" boundaryCondition="true" charge="1">
+      <species id="M_NH3_e_boundary" name="NH3" compartment="e" boundaryCondition="true" charge="1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: H4N</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00009_e_boundary" name="Phosphate" compartment="e" boundaryCondition="true" charge="-2">
+      <species id="M_Phosphate_e_boundary" name="Phosphate" compartment="e" boundaryCondition="true" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: HO4P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00027_e_boundary" name="D-Glucose" compartment="e" boundaryCondition="true" charge="0">
+      <species id="M_D__Glucose_e_boundary" name="D-Glucose" compartment="e" boundaryCondition="true" charge="0">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C6H12O6</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00016_c_boundary" name="Pyridoxal phosphate" compartment="c" boundaryCondition="true" charge="-2">
+      <species id="M_Pyridoxal_phosphate_c_boundary" name="Pyridoxal phosphate" compartment="c" boundaryCondition="true" charge="-2">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C8H8NO6P</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00075_c_boundary" name="Nitrite" compartment="c" boundaryCondition="true" charge="-1">
+      <species id="M_Nitrite_c_boundary" name="Nitrite" compartment="c" boundaryCondition="true" charge="-1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: NO2</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00221_c_boundary" name="D-Lactate" compartment="c" boundaryCondition="true" charge="-1">
+      <species id="M_D__Lactate_c_boundary" name="D-Lactate" compartment="c" boundaryCondition="true" charge="-1">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C3H5O3</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00528_c_boundary" name="N2" compartment="c" boundaryCondition="true" charge="0">
+      <species id="M_N2_c_boundary" name="N2" compartment="c" boundaryCondition="true" charge="0">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: N2</p>
           </html>
         </notes>
       </species>
-      <species id="M_cpd00137_e_boundary" name="Citrate" compartment="e" boundaryCondition="true" charge="-3">
+      <species id="M_Citrate_e_boundary" name="Citrate" compartment="e" boundaryCondition="true" charge="-3">
         <notes>
           <html xmlns="http://www.w3.org/1999/xhtml">
             <p>FORMULA: C6H5O7</p>
@@ -486,13 +486,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00032_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
+          <speciesReference species="M_Oxaloacetate_c" stoichiometry="1"/>
+          <speciesReference species="M_ATP_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00061_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00011_c" stoichiometry="1"/>
+          <speciesReference species="M_CO2_c" stoichiometry="1"/>
+          <speciesReference species="M_ADP_c" stoichiometry="1"/>
+          <speciesReference species="M_Phosphoenolpyruvate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -513,13 +513,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
+          <speciesReference species="M_ATP_c" stoichiometry="1"/>
+          <speciesReference species="M_Pyruvate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00061_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
+          <speciesReference species="M_ADP_c" stoichiometry="1"/>
+          <speciesReference species="M_Phosphoenolpyruvate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -540,14 +540,14 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
+          <speciesReference species="M_NAD_c" stoichiometry="1"/>
+          <speciesReference species="M_Glyceraldehyde3__phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_Phosphate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00203_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
+          <speciesReference species="M_NADH_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -568,13 +568,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00080_c" stoichiometry="1"/>
+          <speciesReference species="M_Glycerol__3__phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_NADP_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00095_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
+          <speciesReference species="M_Glycerone__phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_NADPH_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -595,10 +595,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00013_e" stoichiometry="1"/>
+          <speciesReference species="M_NH3_e" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00013_c" stoichiometry="1"/>
+          <speciesReference species="M_NH3_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -619,14 +619,14 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00009_e" stoichiometry="1"/>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
+          <speciesReference species="M_H2O_c" stoichiometry="1"/>
+          <speciesReference species="M_ATP_c" stoichiometry="1"/>
+          <speciesReference species="M_Phosphate_e" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00009_c" stoichiometry="2"/>
+          <speciesReference species="M_Phosphate_c" stoichiometry="2"/>
+          <speciesReference species="M_ADP_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -647,13 +647,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00109_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00221_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="2"/>
+          <speciesReference species="M_D__Lactate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00110_c" stoichiometry="2"/>
+          <speciesReference stoichiometry="2"/>
+          <speciesReference species="M_Pyruvate_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="2"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -674,12 +674,12 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00169_c" stoichiometry="1"/>
+          <speciesReference species="M_ATP_c" stoichiometry="1"/>
+          <speciesReference species="M_3__Phosphoglycerate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00203_c" stoichiometry="1"/>
+          <speciesReference species="M_ADP_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -700,12 +700,12 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00022_c" stoichiometry="1"/>
+          <speciesReference species="M_Acetyl__CoA_c" stoichiometry="1"/>
+          <speciesReference species="M_Phosphate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00010_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00196_c" stoichiometry="1"/>
+          <speciesReference species="M_CoA_c" stoichiometry="1"/>
+          <speciesReference species="M_Acetylphosphate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -726,15 +726,15 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00023_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00013_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
+          <speciesReference species="M_ATP_c" stoichiometry="1"/>
+          <speciesReference species="M_NH3_c" stoichiometry="1"/>
+          <speciesReference species="M_L__Glutamate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00053_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
+          <speciesReference species="M_L__Glutamine_c" stoichiometry="1"/>
+          <speciesReference species="M_Phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_ADP_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -755,13 +755,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00221_c" stoichiometry="1"/>
+          <speciesReference species="M_NAD_c" stoichiometry="1"/>
+          <speciesReference species="M_D__Lactate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
+          <speciesReference species="M_Pyruvate_c" stoichiometry="1"/>
+          <speciesReference species="M_NADH_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -782,13 +782,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00080_c" stoichiometry="1"/>
+          <speciesReference species="M_NAD_c" stoichiometry="1"/>
+          <speciesReference species="M_Glycerol__3__phosphate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00095_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
+          <speciesReference species="M_Glycerone__phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_NADH_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -809,10 +809,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00482_c" stoichiometry="1"/>
+          <speciesReference species="M_2__Phospho__D__glycerate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00169_c" stoichiometry="1"/>
+          <speciesReference species="M_3__Phosphoglycerate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -833,13 +833,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00284_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00003_c" stoichiometry="1"/>
+          <speciesReference species="M_6__Phospho__D__gluconate_c" stoichiometry="1"/>
+          <speciesReference species="M_NAD_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00171_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00011_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00004_c" stoichiometry="1"/>
+          <speciesReference species="M_CO2_c" stoichiometry="1"/>
+          <speciesReference species="M_NADH_c" stoichiometry="1"/>
+          <speciesReference species="M_D__Ribulose5__phosphate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -860,13 +860,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00072_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
+          <speciesReference species="M_Phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_D__fructose__6__phosphate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00236_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00196_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
+          <speciesReference species="M_H2O_c" stoichiometry="1"/>
+          <speciesReference species="M_Acetylphosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_D__Erythrose4__phosphate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -887,11 +887,11 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00137_c" stoichiometry="1"/>
+          <speciesReference species="M_Citrate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00032_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00029_c" stoichiometry="1"/>
+          <speciesReference species="M_Oxaloacetate_c" stoichiometry="1"/>
+          <speciesReference species="M_Acetate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -912,12 +912,12 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00911_c" stoichiometry="1"/>
+          <speciesReference species="M_6__phospho__D__glucono__1__5__lactone_c" stoichiometry="1"/>
+          <speciesReference species="M_H2O_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00284_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
+          <speciesReference species="M_6__Phospho__D__gluconate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -938,12 +938,12 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00238_c" stoichiometry="1"/>
+          <speciesReference species="M_Sedoheptulose7__phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_Glyceraldehyde3__phosphate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00236_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00072_c" stoichiometry="1"/>
+          <speciesReference species="M_D__fructose__6__phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_D__Erythrose4__phosphate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -964,11 +964,11 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00482_c" stoichiometry="1"/>
+          <speciesReference species="M_2__Phospho__D__glycerate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00061_c" stoichiometry="1"/>
+          <speciesReference species="M_Phosphoenolpyruvate_c" stoichiometry="1"/>
+          <speciesReference species="M_H2O_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -989,12 +989,12 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00061_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00027_e" stoichiometry="1"/>
+          <speciesReference species="M_D__Glucose_e" stoichiometry="1"/>
+          <speciesReference species="M_Phosphoenolpyruvate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00079_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
+          <speciesReference species="M_Pyruvate_c" stoichiometry="1"/>
+          <speciesReference species="M_D__glucose__6__phosphate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1015,13 +1015,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00198_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
+          <speciesReference species="M_Phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_D__Xylulose5__phosphate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00196_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
+          <speciesReference species="M_H2O_c" stoichiometry="1"/>
+          <speciesReference species="M_Acetylphosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_Glyceraldehyde3__phosphate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1042,12 +1042,12 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00238_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
+          <speciesReference species="M_Sedoheptulose7__phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_Glyceraldehyde3__phosphate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00198_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00101_c" stoichiometry="1"/>
+          <speciesReference species="M_ribose__5__phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_D__Xylulose5__phosphate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1068,13 +1068,13 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00079_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
+          <speciesReference species="M_D__glucose__6__phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_NADP_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00911_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
+          <speciesReference species="M_6__phospho__D__glucono__1__5__lactone_c" stoichiometry="1"/>
+          <speciesReference species="M_NADPH_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1095,16 +1095,16 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00171_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00053_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
+          <speciesReference species="M_D__Ribulose5__phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_Glyceraldehyde3__phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_L__Glutamine_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00023_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00016_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00001_c" stoichiometry="3"/>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
+          <speciesReference species="M_H2O_c" stoichiometry="3"/>
+          <speciesReference species="M_Pyridoxal_phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_Phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_L__Glutamate_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1125,10 +1125,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00067_e" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00067_e_boundary" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1149,10 +1149,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00013_e" stoichiometry="1"/>
+          <speciesReference species="M_NH3_e" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00013_e_boundary" stoichiometry="1"/>
+          <speciesReference species="M_NH3_e_boundary" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1173,10 +1173,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00009_e" stoichiometry="1"/>
+          <speciesReference species="M_Phosphate_e" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00009_e_boundary" stoichiometry="1"/>
+          <speciesReference species="M_Phosphate_e_boundary" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1197,10 +1197,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00027_e" stoichiometry="1"/>
+          <speciesReference species="M_D__Glucose_e" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00027_e_boundary" stoichiometry="1"/>
+          <speciesReference species="M_D__Glucose_e_boundary" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1221,10 +1221,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00016_c" stoichiometry="1"/>
+          <speciesReference species="M_Pyridoxal_phosphate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00016_c_boundary" stoichiometry="1"/>
+          <speciesReference species="M_Pyridoxal_phosphate_c_boundary" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1245,10 +1245,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00075_c" stoichiometry="1"/>
+          <speciesReference species="M_Nitrite_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00075_c_boundary" stoichiometry="1"/>
+          <speciesReference species="M_Nitrite_c_boundary" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1269,10 +1269,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00221_c" stoichiometry="1"/>
+          <speciesReference species="M_D__Lactate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00221_c_boundary" stoichiometry="1"/>
+          <speciesReference species="M_D__Lactate_c_boundary" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1293,10 +1293,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00528_c" stoichiometry="1"/>
+          <speciesReference species="M_N2_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00528_c_boundary" stoichiometry="1"/>
+          <speciesReference species="M_N2_c_boundary" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1317,10 +1317,10 @@
           </html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00137_e" stoichiometry="1"/>
+          <speciesReference species="M_Citrate_e" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00137_e_boundary" stoichiometry="1"/>
+          <speciesReference species="M_Citrate_e_boundary" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1339,11 +1339,11 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00284_c" stoichiometry="1"/>
+          <speciesReference species="M_6__Phospho__D__gluconate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd02711_c" stoichiometry="1"/>
+          <speciesReference species="M_H2O_c" stoichiometry="1"/>
+          <speciesReference species="M_2__Keto__3__deoxy__6__phosphogluconate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1362,13 +1362,13 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00067_c" stoichiometry="4"/>
-          <speciesReference species="M_cpd00007_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00110_c" stoichiometry="4"/>
+          <speciesReference stoichiometry="4"/>
+          <speciesReference species="M_O2_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="4"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00001_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00109_c" stoichiometry="4"/>
+          <speciesReference stoichiometry="4"/>
+          <speciesReference species="M_H2O_c" stoichiometry="2"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1387,12 +1387,12 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00428_c" stoichiometry="1"/>
+          <speciesReference species="M_H2O_c" stoichiometry="1"/>
+          <speciesReference species="M_2__Oxopropanal_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00221_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
+          <speciesReference species="M_D__Lactate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1411,11 +1411,11 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd02711_c" stoichiometry="1"/>
+          <speciesReference species="M_2__Keto__3__deoxy__6__phosphogluconate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00102_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
+          <speciesReference species="M_Glyceraldehyde3__phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_Pyruvate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1434,12 +1434,12 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00067_e" stoichiometry="1"/>
-          <speciesReference species="M_cpd00137_e" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
+          <speciesReference species="M_Citrate_e" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00137_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
+          <speciesReference species="M_Citrate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1458,14 +1458,14 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00109_c" stoichiometry="6"/>
-          <speciesReference species="M_cpd00001_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00013_c" stoichiometry="1"/>
+          <speciesReference species="M_H2O_c" stoichiometry="2"/>
+          <speciesReference stoichiometry="6"/>
+          <speciesReference species="M_NH3_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="8"/>
-          <speciesReference species="M_cpd00110_c" stoichiometry="6"/>
-          <speciesReference species="M_cpd00075_c" stoichiometry="1"/>
+          <speciesReference species="M_Nitrite_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="6"/>
+          <speciesReference stoichiometry="8"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1484,11 +1484,11 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00095_c" stoichiometry="1"/>
+          <speciesReference species="M_Glycerone__phosphate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00428_c" stoichiometry="1"/>
+          <speciesReference species="M_Phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_2__Oxopropanal_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1507,13 +1507,13 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00159_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00007_c" stoichiometry="1"/>
+          <speciesReference species="M_O2_c" stoichiometry="1"/>
+          <speciesReference species="M_L__Lactate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00001_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00011_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00029_c" stoichiometry="1"/>
+          <speciesReference species="M_H2O_c" stoichiometry="1"/>
+          <speciesReference species="M_CO2_c" stoichiometry="1"/>
+          <speciesReference species="M_Acetate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1532,18 +1532,18 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00528_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00002_c" stoichiometry="16"/>
-          <speciesReference species="M_cpd00001_c" stoichiometry="16"/>
-          <speciesReference species="M_cpd11620_c" stoichiometry="8"/>
+          <speciesReference species="M_ATP_c" stoichiometry="16"/>
+          <speciesReference species="M_H2O_c" stoichiometry="16"/>
+          <speciesReference species="M_N2_c" stoichiometry="1"/>
+          <speciesReference species="M_Reducedferredoxin_c" stoichiometry="8"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="6"/>
-          <speciesReference species="M_cpd00009_c" stoichiometry="16"/>
-          <speciesReference species="M_cpd11640_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00008_c" stoichiometry="16"/>
-          <speciesReference species="M_cpd00013_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd11621_c" stoichiometry="8"/>
+          <speciesReference species="M_H2_c" stoichiometry="1"/>
+          <speciesReference species="M_NH3_c" stoichiometry="2"/>
+          <speciesReference species="M_Phosphate_c" stoichiometry="16"/>
+          <speciesReference species="M_Oxidizedferredoxin_c" stoichiometry="8"/>
+          <speciesReference species="M_ADP_c" stoichiometry="16"/>
+          <speciesReference stoichiometry="6"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1562,14 +1562,14 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00001_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd11621_c" stoichiometry="6"/>
-          <speciesReference species="M_cpd00013_c" stoichiometry="1"/>
+          <speciesReference species="M_NH3_c" stoichiometry="1"/>
+          <speciesReference species="M_Oxidizedferredoxin_c" stoichiometry="6"/>
+          <speciesReference species="M_H2O_c" stoichiometry="2"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="8"/>
-          <speciesReference species="M_cpd11620_c" stoichiometry="6"/>
-          <speciesReference species="M_cpd00075_c" stoichiometry="1"/>
+          <speciesReference species="M_Nitrite_c" stoichiometry="1"/>
+          <speciesReference species="M_Reducedferredoxin_c" stoichiometry="6"/>
+          <speciesReference stoichiometry="8"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1588,15 +1588,15 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00011_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00022_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd11620_c" stoichiometry="1"/>
+          <speciesReference species="M_Reducedferredoxin_c" stoichiometry="1"/>
+          <speciesReference species="M_Acetyl__CoA_c" stoichiometry="1"/>
+          <speciesReference species="M_CO2_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00010_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00020_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd11621_c" stoichiometry="1"/>
+          <speciesReference species="M_CoA_c" stoichiometry="1"/>
+          <speciesReference species="M_Oxidizedferredoxin_c" stoichiometry="1"/>
+          <speciesReference species="M_Pyruvate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1615,16 +1615,16 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00007_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd03527_c" stoichiometry="2"/>
+          <speciesReference stoichiometry="2"/>
+          <speciesReference species="M_O2_c" stoichiometry="2"/>
+          <speciesReference species="M_NADPH_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00001_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00418_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00274_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
+          <speciesReference species="M_Citrulline_c" stoichiometry="2"/>
+          <speciesReference species="M_NADP_c" stoichiometry="1"/>
+          <speciesReference species="M_NO_c" stoichiometry="2"/>
+          <speciesReference species="M_H2O_c" stoichiometry="2"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1643,10 +1643,10 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00101_c" stoichiometry="1"/>
+          <speciesReference species="M_ribose__5__phosphate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00171_c" stoichiometry="1"/>
+          <speciesReference species="M_D__Ribulose5__phosphate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1665,15 +1665,15 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00010_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00002_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00137_c" stoichiometry="1"/>
+          <speciesReference species="M_CoA_c" stoichiometry="1"/>
+          <speciesReference species="M_ATP_c" stoichiometry="1"/>
+          <speciesReference species="M_Citrate_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00009_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00008_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00022_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00032_c" stoichiometry="1"/>
+          <speciesReference species="M_Acetyl__CoA_c" stoichiometry="1"/>
+          <speciesReference species="M_Phosphate_c" stoichiometry="1"/>
+          <speciesReference species="M_ADP_c" stoichiometry="1"/>
+          <speciesReference species="M_Oxaloacetate_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1692,12 +1692,12 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd11640_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
+          <speciesReference species="M_H2_c" stoichiometry="1"/>
+          <speciesReference species="M_NADP_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00067_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="1"/>
+          <speciesReference species="M_NADPH_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -1716,15 +1716,15 @@
           <html xmlns="http://www.w3.org/1999/xhtml">(u&apos;type: u&apos;conditional&apos;), <p>GENE ASSOCIATION: place_holder</p></html>
         </notes>
         <listOfReactants>
-          <speciesReference species="M_cpd00007_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd00005_c" stoichiometry="1"/>
-          <speciesReference species="M_cpd03527_c" stoichiometry="2"/>
+          <speciesReference stoichiometry="2"/>
+          <speciesReference species="M_NADPH_c" stoichiometry="1"/>
+          <speciesReference species="M_O2_c" stoichiometry="1"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_cpd00067_c" stoichiometry="5"/>
-          <speciesReference species="M_cpd00418_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00274_c" stoichiometry="2"/>
-          <speciesReference species="M_cpd00006_c" stoichiometry="1"/>
+          <speciesReference stoichiometry="5"/>
+          <speciesReference species="M_Citrulline_c" stoichiometry="2"/>
+          <speciesReference species="M_NO_c" stoichiometry="2"/>
+          <speciesReference species="M_NADP_c" stoichiometry="1"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">

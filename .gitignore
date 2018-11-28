@@ -6,6 +6,7 @@ nt_fastas/
 gapfilled/
 gap_models/
 likelihoods/
+likelihoods_py3/
 metabolic_output/
 metabolic_output_V2/
 metabolic_output_V3/

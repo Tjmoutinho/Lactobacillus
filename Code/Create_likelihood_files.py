@@ -1,5 +1,6 @@
-import probanno
 import cobra
+import probanno
+print('imported')
 import pickle
 import copy
 import json
@@ -26,10 +27,13 @@ existing_files = [x.replace("../likelihoods_V4/","").replace(".probs","") for x 
 genome_ids = pickle.load(open("../Data/Filtered_lacto_genome_ids.data", "rb"))
 
 for genome_id in genome_ids[0:2]:
+	print(genome_id)
 	if not genome_id in existing_files:
-		try:
-# 			reaction_probabilities = probanno.generate_reaction_probabilities('/scratch/tjm4k/Lactobacillus/fastas/'+ genome_id +'.faa', '/scratch/tjm4k/Lactobacillus/Data/GramPositive.json', genome_id = genome_id)
-			reaction_probabilities = probanno.generate_reaction_probabilities('/scratch/tjm4k/Lactobacillus/fastas/'+ genome_id +'.faa', '/scratch/tjm4k/Lactobacillus/Data/universal_w_OK_rxns.json', genome_id = genome_id)
-			pickle.dump(reaction_probabilities, open('/scratch/tjm4k/Lactobacillus/likelihoods_V4/'+ genome_id +'.probs', "wb"))
-		except:
-			pass
+		#try:
+		print(genome_id)
+# 		reaction_probabilities = probanno.generate_reaction_probabilities('/scratch/tjm4k/Lactobacillus/fastas/'+ genome_id +'.faa', '/scratch/tjm4k/Lactobacillus/Data/GramPositive.json', genome_id = genome_id)
+		reaction_probabilities = probanno.generate_reaction_probabilities('/scratch/tjm4k/Lactobacillus/fastas/'+ genome_id +'.faa', '/scratch/tjm4k/Lactobacillus/Data/universal_w_OK_rxns.json', genome_id = genome_id)
+		pickle.dump(reaction_probabilities, open('/scratch/tjm4k/Lactobacillus/likelihoods_V4/'+ genome_id +'.probs', "wb"))
+		print('Wrote File')
+		#except:
+#			pass
